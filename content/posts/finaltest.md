@@ -1,21 +1,13 @@
 ---
-title: "Final test before moving to styling"
-date: "2015-08-12"
-description: "testing"
+title: "Moved to a new website"
+date: "2015-09-14"
+description: "general"
 categories: 
-    - "hugo"
-    - "fun"
-    - "test"
+    - "general"
 ---
 
-## First Heading
+## New website
 
-Test heading.
+moved from giasuddin.com to giasuddin.github.io.
 
-### Sub
-
-Test sub.
-
-## Conclusion
-
-Test conclusion.
+### This website is under construction.
