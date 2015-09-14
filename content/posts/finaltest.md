@@ -9,5 +9,4 @@ categories:
 ## New website
 
 moved from giasuddin.com to giasuddin.github.io.
-
-### This website is under construction.
+This website is under construction.
